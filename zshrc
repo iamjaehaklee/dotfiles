@@ -105,3 +105,4 @@ source $ZSH/oh-my-zsh.sh
 
 # Custom aliases
 alias cdle="cd /Users/jaehaklee/legaleditor-monorepo/monorepo"
+alias cdlec="cd /Users/jaehaklee/legaleditor-monorepo/monorepo && cursor ."
