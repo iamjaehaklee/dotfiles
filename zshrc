@@ -104,5 +104,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Custom aliases
-alias cdle="cd /Users/jaehaklee/legaleditor-monorepo/monorepo"
-alias cdlec="cd /Users/jaehaklee/legaleditor-monorepo/monorepo && cursor ."
+alias cdle="cd ~/legaleditor-monorepo/monorepo"
+alias cdlec="cd ~/legaleditor-monorepo/monorepo && cursor ."
